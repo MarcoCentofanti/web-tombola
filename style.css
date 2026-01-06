@@ -1,0 +1,20 @@
+.casella{
+  width: 60px;
+  height: 60px;
+}
+
+.estrattore{
+  width: 100px;
+  height: 100px;
+
+}
+
+.border-estrattore{
+  border: 1px black solid;
+}
+
+.centratura {
+  display: flex;
+  align-items: center; /* Centra verticalmente */
+  justify-content: center; /* Centra */
+  }
